@@ -1,2 +1,2 @@
 # Data-mining3
-Kmeans algorithm
+Kmeans algorithm, LDA
